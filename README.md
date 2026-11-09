@@ -16,6 +16,7 @@
 
 | Repository | What it shows | Result | Status |
 |---|---|---|---|
+| [`agora-method`](https://github.com/riccardito/agora-method) | The method layer of my AI-development pipeline: sessions, skills, policies, and six checks that keep them true. The real operating files from 402 recorded sessions, with a demo child that runs one session start to end | Domain share 1.06 % → 0.0 % across 7 815 lines, enforced in CI · clone to green demo in 17 s against a 10-minute target | public, CI green |
 | [`FHNW-Projects`](https://github.com/riccardito/FHNW-Projects) | My BSc Data Science coursework, one folder per course — deep learning, NLP, recommender systems, statistics, IoT. Algorithms written from the maths where the course asked for it | CIFAR-10 from a 55 % MLP to an 80 % CNN · Amazon-review sentiment at macro-F1 0.85 · a rockfall risk simulation at 1.2–2.9 × 10⁻⁴ deaths a year against a 10⁻⁴ limit | archive, every folder documented |
 
 ---
